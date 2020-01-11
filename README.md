@@ -12,3 +12,5 @@ https://github.com/vasanthk/how-web-works
 http://highscalability.com/
 
 https://martinfowler.com/
+
+https://github.com/for-GET/know-your-http-well
