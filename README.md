@@ -10,3 +10,5 @@ https://roadmap.sh/
 https://github.com/vasanthk/how-web-works
 
 http://highscalability.com/
+
+https://martinfowler.com/
