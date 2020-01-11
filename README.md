@@ -14,3 +14,5 @@ http://highscalability.com/
 https://martinfowler.com/
 
 https://github.com/for-GET/know-your-http-well
+
+https://github.com/donnemartin/system-design-primer
